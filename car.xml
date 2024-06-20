@@ -1,0 +1,9 @@
+<car>
+    <brand>BMW</brand>
+    <year_of_issue>2020</year_of_issue>
+    <model>3 Series</model>
+    <hit>false</hit>
+    <color>White</color>
+    <color>Blue</color>
+    <color>Black</color>
+</car>
